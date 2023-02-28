@@ -20,7 +20,7 @@
   
 - 📄 <a href="https://drive.google.com/file/d/1i0290izjJ15Lj8PjawrOhBNCg4IkcGyz/view?usp=share_link">See My Resume</a>
 
-- 📄 <a href="https://shivam5665.github.io/">See My Portfolio</a>
+- 📄 To See My Portfolio <a href="https://shivam5665.github.io/"> shivam5665.github.io </a>
 
 - ⚡ Fun fact **I enjoy scanning code for errors and other programming puzzles.**
 
